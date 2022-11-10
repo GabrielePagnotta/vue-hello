@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+    
+
+}
+
+.bg_img{
+    height:100vh;
+    opacity:80%;
+    background-image: url(/img/galaxy.jpeg);
+    background-size:auto;
+}
+
+.text_format{
+    width:30%;
+    margin:0 35% 5%;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.initial_text{
+    width:30%;
+    margin-left: 35%;
+    margin-bottom:5%;
+    text-align: center;
+    background-color: grey;
+    border-radius: 10px;
+
+
+
+}
+
+.space{
+    height:300px;
+}
